@@ -1,1 +1,1 @@
-# UC30-Algoritimo
+# UC30-Algorítimo
